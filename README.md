@@ -1,4 +1,4 @@
-# README
+# Web Plagiarism Checker
 
 > This is a code to scrap abstracts of many research papers(100 most relavant) given query to search.
 > Date:13-10-2020
