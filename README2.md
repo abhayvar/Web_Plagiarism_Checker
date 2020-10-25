@@ -1,11 +1,11 @@
-# Gauge Data Solution Assignment
+# README
 
-> This is an assignment sumbitted by Abhay Varshney.
+> This is a code to scrap abstracts of many research papers(100 most relavant) given query to search.
 > Date:13-10-2020
 
-The assignment includes query searching and clustering documents on the basis of their similarity
-  - scrape abstracts from the first 100 search results for the query “neurodegenerative diseases” on pubmed
-  -  Remove 10 most frequently occurring words in this corpus from each abstract to create a “cleansed” corpus
+The includes query searching and clustering documents on the basis of their similarity
+  - Scrape abstracts from the first 100 search results for the query “neurodegenerative diseases” on pubmed
+  - Remove 10 most frequently occurring words in this corpus from each abstract to create a “cleansed” corpus
   - Represent each abstract as a vector. The components of the vector should be the frequency of occurrence of a word within an abstract 
   - Use the cosine similarity between the 100 vectors as a metric to cluster them into exactly six clusters
   - Find most unique words in each cluster
